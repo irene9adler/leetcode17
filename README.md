@@ -1,5 +1,6 @@
 # leetcode17
 Given a digit string, return all possible letter combinations that the number could represent.
+![image](http://github.com/irene9adler/leetcode17/images/1.png)
 
 A mapping of digit to letters (just like on the telephone buttons) is given below.
 Input:Digit string "23"
